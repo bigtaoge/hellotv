@@ -468,7 +468,7 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226404/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CHC影迷电影.png",CHC影迷电影
 http://39.134.144.6:8089/PLTV/88888888/224/3221226607/index.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CHC电影.png",CHC动作电影
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CHC动作电影.png",CHC动作电影
 http://39.134.144.6:8089/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-name="山东经济广播" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/main/logo/山东经济广播.png",山东经济广播
 http://39.134.144.6:8089/PLTV/88888888/224/3221226609/index.m3u8
