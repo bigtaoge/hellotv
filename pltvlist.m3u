@@ -472,4 +472,5 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226607/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-name="山东经济广播" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东经济广播.png",山东经济广播
 http://39.134.144.6:8089/PLTV/88888888/224/3221226609/index.m3u8
-#EXTINF:-1 tvg-name="山东交通广播" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东交通广播.png",山东交通广播http://39.134.144.6:8089/PLTV/88888888/224/3221226482/index.m3u8
+#EXTINF:-1 tvg-name="山东交通广播" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东交通广播.png",山东交通广播
+http://39.134.144.6:8089/PLTV/88888888/224/3221226482/index.m3u8
