@@ -472,4 +472,5 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 #EXTINF:-1 tvg-name="山东经济广播" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东经济广播.png",山东经济广播
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00003001/index.m3u8
-#EXTINF:-1 tvg-name="山东交通广播" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东交通广播.png",山东交通广播http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00003002/index.m3u8
+#EXTINF:-1 tvg-name="山东交通广播" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东交通广播.png",山东交通广播
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00003002/index.m3u8
