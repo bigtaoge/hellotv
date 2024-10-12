@@ -251,6 +251,7 @@ CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index
 CHC高清电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 重温经典影视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL20000003/index.m3u8
+凤凰中文,http://183.207.248.71/PLTV/3/224/3221228527/1.m3u8
 
 广播频道,#genre#
 山东经济广播,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00003001/index.m3u8
