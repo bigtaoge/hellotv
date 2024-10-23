@@ -190,6 +190,8 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226390/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV4.png" group-title="地方",CETV4
 http://39.134.144.6:8089/PLTV/88888888/224/3221226416/index.m3u8
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/求索纪录.png" group-title="地方",求索纪录
+http://39.134.144.6:8089/PLTV/88888888/224/3221226727/index.m3u8
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/中国交通.png" group-title="地方",中国交通
 http://39.134.144.6:8089/PLTV/88888888/224/3221226295/index.m3u8
 #EXTINF:-1 tvg-name="德州新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/德州新闻综合.png" group-title="地方",德州新闻综合
