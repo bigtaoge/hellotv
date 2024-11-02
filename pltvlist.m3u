@@ -426,6 +426,8 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226426/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226599/index.m3u8
 #EXTINF:-1 tvg-name="任城2" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/任城2.png" group-title="地方",任城2
 http://39.134.144.6:8089/PLTV/88888888/224/3221226466/index.m3u8
+#EXTINF:-1 tvg-name="莱钢电视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/莱钢电视.png" group-title="地方",莱钢电视
+http://39.134.144.6:8089/PLTV/88888888/224/3221226729/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/卡酷少儿.png" group-title="数字",卡酷少儿
 http://39.134.144.6:8089/PLTV/88888888/224/3221226529/index.m3u8
 #EXTINF:-1 tvg-name="海洋频道" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/海洋频道.png" group-title="数字",海洋频道
