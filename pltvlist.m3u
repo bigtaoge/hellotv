@@ -476,8 +476,6 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226607/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-name="重温经典影视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/重温经典影视.png" group-title="数字",重温经典影视
 http://39.134.144.6:8089/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文HD" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/凤凰中文HD.png" group-title="数字",凤凰中文HD
-http://183.207.248.71/PLTV/3/224/3221228527/1.m3u8
 #EXTINF:-1 tvg-name="山东经济广播" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东经济广播.png" group-title="广播",山东经济广播
 http://39.134.144.6:8089/PLTV/88888888/224/3221226609/index.m3u8
 #EXTINF:-1 tvg-name="山东交通广播" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东交通广播.png" group-title="广播",山东交通广播
