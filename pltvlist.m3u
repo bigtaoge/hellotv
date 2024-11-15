@@ -424,6 +424,8 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226410/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226533/index.m3u8
 #EXTINF:-1 tvg-name="临邑TV1" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/临邑TV1.png" group-title="地方",临邑TV1
 http://39.134.144.6:8089/PLTV/88888888/224/3221226535/index.m3u8
+#EXTINF:-1 tvg-name="历城综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/历城综合.png" group-title="地方",历城综合
+http://39.134.144.6:8089/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1 tvg-name="鱼台综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/鱼台综合.png" group-title="地方",鱼台综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221226422/index.m3u8
 #EXTINF:-1 tvg-name="鱼台生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/鱼台生活.png" group-title="地方",鱼台生活
