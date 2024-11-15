@@ -356,6 +356,8 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226099/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226046/index.m3u8
 #EXTINF:-1 tvg-name="巨野新闻" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/巨野新闻.png" group-title="地方",巨野新闻
 http://39.134.144.6:8089/PLTV/88888888/224/3221226134/index.m3u8
+#EXTINF:-1 tvg-name="莘县综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/莘县综合.png" group-title="地方",莘县综合
+http://39.134.144.6:8089/PLTV/88888888/224/3221226136/index.m3u8
 #EXTINF:-1 tvg-name="茌平综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/茌平综合.png" group-title="地方",茌平综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221226138/index.m3u8
 #EXTINF:-1 tvg-name="平阴综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/平阴综合.png" group-title="地方",平阴综合
