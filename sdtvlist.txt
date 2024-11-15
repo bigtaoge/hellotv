@@ -216,6 +216,7 @@ CGTN俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 博兴综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001102/index.m3u8
 临清综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001103/index.m3u8
 临邑TV1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001104/index.m3u8
+历城综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001105/index.m3u8
 鱼台综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001107/index.m3u8
 鱼台生活,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001108/index.m3u8
 河东综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001109/index.m3u8
