@@ -102,7 +102,7 @@ CGTN俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 德州公共,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000207/index.m3u8
 临沂公共,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000256/index.m3u8
 临沂综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000120/index.m3u8
-临沂农科,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000121/index.m3u8
+临沂经济,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000121/index.m3u8
 滨州新闻综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000220/index.m3u8
 滨州公共,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000221/index.m3u8
 青岛TV1,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8
