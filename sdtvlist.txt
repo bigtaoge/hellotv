@@ -157,6 +157,7 @@ CGTN俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 枣庄教育频道,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001026/index.m3u8
 沂源新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
 宁津新闻综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001003/index.m3u8
+淄川新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001007/index.m3u8
 商河综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001008/index.m3u8
 惠民新闻综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001009/index.m3u8
 岱岳TV,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001013/index.m3u8
