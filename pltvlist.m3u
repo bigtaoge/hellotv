@@ -312,6 +312,8 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221225916/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226443/index.m3u8
 #EXTINF:-1 tvg-name="商河综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/商河综合.png" group-title="地方",商河综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221226266/index.m3u8
+#EXTINF:-1 tvg-name="莒南综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/莒南综合.png" group-title="地方",莒南综合
+http://39.134.144.6:8089/PLTV/88888888/224/3221226376/index.m3u8
 #EXTINF:-1 tvg-name="惠民综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/惠民综合.png" group-title="地方",惠民综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221226603/index.m3u8
 #EXTINF:-1 tvg-name="嘉祥综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/嘉祥综合.png" group-title="地方",嘉祥综合
