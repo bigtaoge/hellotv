@@ -346,6 +346,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001043/index.m3u8
 #EXTINF:-1 tvg-name="巨野新闻" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/巨野新闻.png" group-title="地方",巨野新闻
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
+#EXTINF:-1 tvg-name="莘县综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/莘县综合.png" group-title="地方",莘县综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001047/index.m3u8
 #EXTINF:-1 tvg-name="茌平综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/茌平综合.png" group-title="地方",茌平综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001048/index.m3u8
 #EXTINF:-1 tvg-name="平阴综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/平阴综合.png" group-title="地方",平阴综合
