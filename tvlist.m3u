@@ -312,6 +312,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001012/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001016/index.m3u8
 #EXTINF:-1 tvg-name="长清综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/长清综合.png" group-title="地方",长清综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
+#EXTINF:-1 tvg-name="周村新闻" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/周村新闻.png" group-title="地方",周村新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001019/index.m3u8
 #EXTINF:-1 tvg-name="桓台综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/桓台综合.png" group-title="地方",桓台综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001020/index.m3u8
 #EXTINF:-1 tvg-name="高青综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/高青综合.png" group-title="地方",高青综合
