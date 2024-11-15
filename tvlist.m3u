@@ -298,6 +298,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001026/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
 #EXTINF:-1 tvg-name="宁津综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/宁津综合.png" group-title="地方",宁津综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001003/index.m3u8
+#EXTINF:-1 tvg-name="淄川新闻" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/淄川新闻.png" group-title="地方",淄川新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001007/index.m3u8
 #EXTINF:-1 tvg-name="商河综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/商河综合.png" group-title="地方",商河综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001008/index.m3u8
 #EXTINF:-1 tvg-name="惠民综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/惠民综合.png" group-title="地方",惠民综合
