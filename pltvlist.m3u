@@ -322,6 +322,8 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226603/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221225814/index.m3u8
 #EXTINF:-1 tvg-name="长清综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/长清综合.png" group-title="地方",长清综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221225865/index.m3u8
+#EXTINF:-1 tvg-name="周村新闻" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/周村新闻.png" group-title="地方",周村新闻
+http://39.134.144.6:8089/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 tvg-name="桓台综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/桓台综合.png" group-title="地方",桓台综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221225993/index.m3u8
 #EXTINF:-1 tvg-name="高青综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/高青综合.png" group-title="地方",高青综合
