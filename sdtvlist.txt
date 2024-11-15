@@ -153,8 +153,6 @@ CGTN俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 淄博生活,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000294/index.m3u8
 淄博科教,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000295/index.m3u8
 淄博公共,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001037/index.m3u8
-枣庄新闻综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001025/index.m3u8
-枣庄教育频道,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001026/index.m3u8
 沂源新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
 宁津新闻综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001003/index.m3u8
 淄川新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001007/index.m3u8
