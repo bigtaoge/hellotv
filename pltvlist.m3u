@@ -310,6 +310,8 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226030/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221225916/index.m3u8
 #EXTINF:-1 tvg-name="宁津综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/宁津综合.png" group-title="地方",宁津综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221226443/index.m3u8
+#EXTINF:-1 tvg-name="淄川新闻" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/淄川新闻.png" group-title="地方",淄川新闻
+http://39.134.144.6:8089/PLTV/88888888/224/3221226539/index.m3u8
 #EXTINF:-1 tvg-name="商河综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/商河综合.png" group-title="地方",商河综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221226266/index.m3u8
 #EXTINF:-1 tvg-name="莒南综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/莒南综合.png" group-title="地方",莒南综合
