@@ -6,9 +6,9 @@
 3.m3u文件调用地址:
 https://raw.githubusercontent.com/bigtaoge/hellotv/main/tvlist.m3u
 
-https://raw.githubusercontent.com/bigtaoge/hellotv/main/pltvlist.m3u
-
 https://raw.githubusercontent.com/bigtaoge/hellotv/main/haotvlist.m3u
+
+https://raw.githubusercontent.com/bigtaoge/hellotv/main/pltvlist.m3u
 
 4.txt文件调用：
 
