@@ -20,5 +20,7 @@ https://raw.githubusercontent.com/bigtaoge/hellotv/main//sdltjdtv.m3u
 
 https://raw.githubusercontent.com/bigtaoge/hellotv/main/sdtvlist.txt
 
+https://raw.githubusercontent.com/bigtaoge/hellotv/main/sdltjdy.txt
+
 ![6664801d58aa4cb61f72e.png](https://helloimage.vercel.app/api/file/6664801d58aa4cb61f72e.png)
 
