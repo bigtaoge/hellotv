@@ -54,6 +54,8 @@ rtsp://223.99.188.13/PLTV/88888888/224/3221226226/100001000000000600000000025538
 rtsp://223.99.188.13/PLTV/88888888/224/3221227235/10000100000000060000000005622089_0.smil
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV17.png" group-title="央视",CCTV17
 rtsp://223.99.188.13/PLTV/88888888/224/3221226590/10000100000000060000000003636571_0.smil
+#EXTINF:-1 tvg-name="CCTV4K-超高清" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV4K-超高清.png" group-title="央视",CCTV4K-超高清
+rtsp://223.99.188.13/PLTV/88888888/224/3221227584/371343799.smil
 #EXTINF:-1 tvg-name="CCTV4-中文国际欧洲" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV4-中文国际欧洲.png" group-title="央视",CCTV4-中文国际欧洲
 rtsp://223.99.188.13/PLTV/88888888/224/3221227231/10000100000000060000000005622079_0.smil
 #EXTINF:-1 tvg-name="CCTV4-中文国际美洲" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV4-中文国际美洲.png" group-title="央视",CCTV4-中文国际美洲
