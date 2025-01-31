@@ -244,7 +244,7 @@ http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001000/index.m3u8
 #EXTINF:-1 tvg-name="诸城新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/诸城新闻综合.png" group-title="地方",诸城新闻综合
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001004/index.m3u8
-#EXTINF:-1 tvg-name="莒县TV1" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/莒县TV1.png" group-title="地方",莒县TV1
+#EXTINF:-1 tvg-name="莒县综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/莒县综合.png" group-title="地方",莒县综合
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001014/index.m3u8
 #EXTINF:-1 tvg-name="文登TV1" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/文登TV1.png" group-title="地方",文登TV1
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001017/index.m3u8
