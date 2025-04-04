@@ -227,7 +227,6 @@ CETV1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 CETV2,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
 CETV4,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
 求索记录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
-纪实人文,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
 金鹰纪实,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
 卡酷少儿,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
 海洋频道,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8
