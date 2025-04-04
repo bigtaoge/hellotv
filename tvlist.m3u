@@ -230,6 +230,10 @@ http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000282/index.m3u8
 #EXTINF:-1 tvg-name="烟台影视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/烟台影视.png" group-title="地方",烟台影视
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000283/index.m3u8
+#EXTINF:-1 tvg-name="海阳综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/海阳综合.png" group-title="地方",海阳综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001091/index.m3u8
+#EXTINF:-1 tvg-name="海阳综艺" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/海阳综艺.png" group-title="地方",海阳综艺
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001092/index.m3u8
 #EXTINF:-1 tvg-name="寿光综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/寿光综合.png" group-title="地方",寿光综合
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001000/index.m3u8
 #EXTINF:-1 tvg-name="诸城新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/诸城新闻综合.png" group-title="地方",诸城新闻综合
