@@ -13,7 +13,6 @@ https://raw.githubusercontent.com/bigtaoge/hellotv/main/pltvlist.m3u
 
 https://raw.githubusercontent.com/bigtaoge/hellotv/main/rtsptvlist.m3u
 
-https://raw.githubusercontent.com/bigtaoge/hellotv/main//yhgitv.m3u
 
 4.txt文件调用：
 
