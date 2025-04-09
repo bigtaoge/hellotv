@@ -29,7 +29,7 @@ rtsp://223.99.188.13/PLTV/88888888/224/3221227259/100001000000000600000000056717
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV4.png" group-title="央视",CCTV4
 rtsp://223.99.188.13/PLTV/88888888/224/3221226229/10000100000000060000000002553864_0.smil
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV5.png" group-title="央视",CCTV5
-rtsp://223.99.188.13/PLTV/88888888/224/3221225773/10000100000000060000000001370151_0.smil
+rtsp://223.99.188.13/PLTV/88888888/224/3221227272/10000100000000060000000005671729_0.smil
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV5+.png" group-title="央视",CCTV5+
 rtsp://223.99.188.13/PLTV/88888888/224/3221226218/10000100000000060000000002553918_0.smil
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV6.png" group-title="央视",CCTV6
