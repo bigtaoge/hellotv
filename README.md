@@ -7,7 +7,6 @@
 
 https://raw.githubusercontent.com/bigtaoge/hellotv/main/tvlist.m3u
 
-https://raw.githubusercontent.com/bigtaoge/hellotv/main/haotvlist.m3u
 
 https://raw.githubusercontent.com/bigtaoge/hellotv/main/pltvlist.m3u
 
