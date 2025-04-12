@@ -182,12 +182,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
 #EXTINF:-1 tvg-name="德州经济生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/德州经济生活.png" group-title="地方",德州经济生活
 http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
-#EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/临沂公共.png" group-title="地方",临沂公共
-http://150.138.8.143/00/SNM/CHANNEL00000256/index.m3u8
-#EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/临沂综合.png" group-title="地方",临沂综合
-http://150.138.8.143/00/SNM/CHANNEL00000120/index.m3u8
-#EXTINF:-1 tvg-name="临沂经济 tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/临沂经济.png" group-title="地方",临沂经济
-http://150.138.8.143/00/SNM/CHANNEL00000121/index.m3u8
 #EXTINF:-1 tvg-name="滨州新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/滨州新闻综合.png" group-title="地方",滨州新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00000220/index.m3u8
 #EXTINF:-1 tvg-name="滨州公共" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/滨州公共.png" group-title="地方",滨州公共
@@ -205,15 +199,15 @@ http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
 #EXTINF:-1 tvg-name="青岛TV6" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/青岛TV6.png" group-title="地方",青岛TV6
 http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
 #EXTINF:-1 tvg-name="黄岛综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/黄岛综合.png" group-title="地方",黄岛综合
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001086/index.m3u8
+http://150.138.8.143/00/SNMCHANNEL00001086/index.m3u8
 #EXTINF:-1 tvg-name="黄岛生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/黄岛生活.png" group-title="地方",黄岛生活
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001087/index.m3u8
+http://150.138.8.143/00/SNMCHANNEL00001087/index.m3u8
 #EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/潍坊新闻综合.png" group-title="地方",潍坊新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00000215/index.m3u8
 #EXTINF:-1 tvg-name="潍坊经济生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/潍坊经济生活.png" group-title="地方",潍坊经济生活
 http://150.138.8.143/00/SNM/CHANNEL00000216/index.m3u8
 #EXTINF:-1 tvg-name="临朐综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/临朐综合.png" group-title="地方",临朐综合
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001085/index.m3u8
+http://150.138.8.143/00/SNMCHANNEL00001085/index.m3u8
 #EXTINF:-1 tvg-name="日照新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/日照新闻综合.png" group-title="地方",日照新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 #EXTINF:-1 tvg-name="日照科教" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/日照科教.png" group-title="地方",日照科教
@@ -231,9 +225,9 @@ http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
 #EXTINF:-1 tvg-name="烟台影视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/烟台影视.png" group-title="地方",烟台影视
 http://150.138.8.143/00/SNM/CHANNEL00000283/index.m3u8
 #EXTINF:-1 tvg-name="海阳综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/海阳综合.png" group-title="地方",海阳综合
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001091/index.m3u8
+http://150.138.8.143/00/SNMCHANNEL00001091/index.m3u8
 #EXTINF:-1 tvg-name="海阳综艺" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/海阳综艺.png" group-title="地方",海阳综艺
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001092/index.m3u8
+http://150.138.8.143/00/SNMCHANNEL00001092/index.m3u8
 #EXTINF:-1 tvg-name="寿光综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/寿光综合.png" group-title="地方",寿光综合
 http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
 #EXTINF:-1 tvg-name="诸城新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/诸城新闻综合.png" group-title="地方",诸城新闻综合
