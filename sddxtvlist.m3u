@@ -1,4 +1,3 @@
-
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CCTV1.png" group-title="央视",CCTV1
 http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东齐鲁.png" group-title="山东",山东齐鲁
@@ -208,7 +207,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000215/index.m3u8
 #EXTINF:-1 tvg-name="潍坊经济生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/潍坊经济生活.png" group-title="地方",潍坊经济生活
 http://150.138.8.143/00/SNM/CHANNEL00000216/index.m3u8
 #EXTINF:-1 tvg-name="临朐综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/临朐综合.png" group-title="地方",临朐综合
-http://150.138.8.143/00/SNMCHANNEL00001085/index.m3u8
+http://150.138.8.143/00/SNM/CHANNEL00001085/index.m3u8
 #EXTINF:-1 tvg-name="日照新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/日照新闻综合.png" group-title="地方",日照新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
 #EXTINF:-1 tvg-name="日照科教" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/日照科教.png" group-title="地方",日照科教
@@ -226,9 +225,9 @@ http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
 #EXTINF:-1 tvg-name="烟台影视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/烟台影视.png" group-title="地方",烟台影视
 http://150.138.8.143/00/SNM/CHANNEL00000283/index.m3u8
 #EXTINF:-1 tvg-name="海阳综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/海阳综合.png" group-title="地方",海阳综合
-http://150.138.8.143/00/SNMCHANNEL00001091/index.m3u8
+http://150.138.8.143/00/SNM/CHANNEL00001091/index.m3u8
 #EXTINF:-1 tvg-name="海阳综艺" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/海阳综艺.png" group-title="地方",海阳综艺
-http://150.138.8.143/00/SNMCHANNEL00001092/index.m3u8
+http://150.138.8.143/00/SNM/CHANNEL00001092/index.m3u8
 #EXTINF:-1 tvg-name="寿光综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/寿光综合.png" group-title="地方",寿光综合
 http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
 #EXTINF:-1 tvg-name="诸城新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/诸城新闻综合.png" group-title="地方",诸城新闻综合
