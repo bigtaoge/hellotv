@@ -155,7 +155,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000075/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/延边卫视.png" group-title="卫视",延边卫视
-http://150.138.8.143/00/SNM/CHANNEL00000668/index.m3u8
+延边卫视,http://150.138.8.143/00/SNM/CHANNEL00000668/index.m3u8
 #EXTINF:-1 tvg-name="济南都市" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济南都市.png" group-title="地方",济南都市
 http://150.138.8.143/00/SNM/CHANNEL00000062/index.m3u8
 #EXTINF:-1 tvg-name="济南生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济南生活.png" group-title="地方",济南生活
@@ -232,10 +232,6 @@ http://150.138.8.143/00/SNM/CHANNEL00001092/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001000/index.m3u8
 #EXTINF:-1 tvg-name="诸城新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/诸城新闻综合.png" group-title="地方",诸城新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00001004/index.m3u8
-#EXTINF:-1 tvg-name="莒县综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/莒县综合.png" group-title="地方",莒县综合
-http://150.138.8.143/00/SNM/CHANNEL00001014/index.m3u8
-#EXTINF:-1 tvg-name="文登TV1" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/文登TV1.png" group-title="地方",文登TV1
-http://150.138.8.143/00/SNM/CHANNEL00001017/index.m3u8
 #EXTINF:-1 tvg-name="奎文" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/奎文.png" group-title="地方",奎文
 http://150.138.8.143/00/SNM/CHANNEL00001027/index.m3u8
 #EXTINF:-1 tvg-name="昌乐综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/昌乐综合.png" group-title="地方",昌乐综合
@@ -258,8 +254,6 @@ http://150.138.8.143/00/SNM/CHANNEL00001053/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001057/index.m3u8
 #EXTINF:-1 tvg-name="莱西综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/莱西综合.png" group-title="地方",莱西综合
 http://150.138.8.143/00/SNM/CHANNEL00001067/index.m3u8
-#EXTINF:-1 tvg-name="即墨综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/即墨综合.png" group-title="地方",即墨综合
-http://150.138.8.143/00/SNM/CHANNEL00001080/index.m3u8
 #EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/东营新闻综合.png" group-title="地方",东营新闻综合
 http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
 #EXTINF:-1 tvg-name="东营公共" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/东营公共.png" group-title="地方",东营公共
@@ -314,10 +308,6 @@ http://150.138.8.143/00/SNM/CHANNEL00001020/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001023/index.m3u8
 #EXTINF:-1 tvg-name="无棣综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/无棣综合.png" group-title="地方",无棣综合
 http://150.138.8.143/00/SNM/CHANNEL00001024/index.m3u8
-#EXTINF:-1 tvg-name="枣庄新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/枣庄新闻综合.png" group-title="地方",枣庄新闻综合
-http://150.138.8.143/00/SNM/CHANNEL00001025/index.m3u8
-#EXTINF:-1 tvg-name="枣庄经济生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/枣庄经济生活.png" group-title="地方",枣庄经济生活
-http://150.138.8.143/00/SNM/CHANNEL00001026/index.m3u8
 #EXTINF:-1 tvg-name="济阳综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济阳综合.png" group-title="地方",济阳综合
 http://150.138.8.143/00/SNM/CHANNEL00001030/index.m3u8
 #EXTINF:-1 tvg-name="蒙阴综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/蒙阴综合.png" group-title="地方",蒙阴综合
@@ -372,16 +362,10 @@ http://150.138.8.143/00/SNM/CHANNEL00001069/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001070/index.m3u8
 #EXTINF:-1 tvg-name="宁阳TV2" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/宁阳TV2.png" group-title="地方",宁阳TV2
 http://150.138.8.143/00/SNM/CHANNEL00001072/index.m3u8
-#EXTINF:-1 tvg-name="章丘综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/章丘综合.png" group-title="地方",章丘综合
-http://150.138.8.143/00/SNM/CHANNEL00001073/index.m3u8
 #EXTINF:-1 tvg-name="梁山TV1" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/梁山TV1.png" group-title="地方",梁山TV1
 http://150.138.8.143/00/SNM/CHANNEL00001075/index.m3u8
-#EXTINF:-1 tvg-name="微山综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/微山综合.png" group-title="地方",微山综合
-http://150.138.8.143/00/SNM/CHANNEL00001078/index.m3u8
 #EXTINF:-1 tvg-name="单县综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/单县综合.png" group-title="地方",单县综合
 http://150.138.8.143/00/SNM/CHANNEL00001079/index.m3u8
-#EXTINF:-1 tvg-name="泗水新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/泗水新闻综合.png" group-title="地方",泗水新闻综合
-http://150.138.8.143/00/SNM/CHANNEL00001081/index.m3u8
 #EXTINF:-1 tvg-name="鄄城综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/鄄城综合.png" group-title="地方",鄄城综合
 http://150.138.8.143/00/SNM/CHANNEL00001084/index.m3u8
 #EXTINF:-1 tvg-name="东阿综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/东阿综合.png" group-title="地方",东阿综合
@@ -390,18 +374,12 @@ http://150.138.8.143/00/SNM/CHANNEL00001093/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001094/index.m3u8
 #EXTINF:-1 tvg-name="兰陵公共" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/兰陵公共.png" group-title="地方",兰陵公共
 http://150.138.8.143/00/SNM/CHANNEL00001095/index.m3u8
-#EXTINF:-1 tvg-name="沂南综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/沂南综合.png" group-title="地方",沂南综合
-http://150.138.8.143/00/SNM/CHANNEL00001096/index.m3u8
-#EXTINF:-1 tvg-name="沂南红色影视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/沂南红色影视.png" group-title="地方",沂南红色影视
-http://150.138.8.143/00/SNM/CHANNEL00001097/index.m3u8
 #EXTINF:-1 tvg-name="沂水综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/沂水综合.png" group-title="地方",沂水综合
 http://150.138.8.143/00/SNM/CHANNEL00001098/index.m3u8
 #EXTINF:-1 tvg-name="沂水生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/沂水生活.png" group-title="地方",沂水生活
 http://150.138.8.143/00/SNM/CHANNEL00001099/index.m3u8
 #EXTINF:-1 tvg-name="济宁高新" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济宁高新.png" group-title="地方",济宁高新
 http://150.138.8.143/00/SNM/CHANNEL00001101/index.m3u8
-#EXTINF:-1 tvg-name="博兴综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/博兴综合.png" group-title="地方",博兴综合
-http://150.138.8.143/00/SNM/CHANNEL00001102/index.m3u8
 #EXTINF:-1 tvg-name="临清综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/临清综合.png" group-title="地方",临清综合
 http://150.138.8.143/00/SNM/CHANNEL00001103/index.m3u8
 #EXTINF:-1 tvg-name="临邑TV1" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/临邑TV1.png" group-title="地方",临邑TV1
@@ -418,10 +396,6 @@ http://150.138.8.143/00/SNM/CHANNEL00001109/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001111/index.m3u8
 #EXTINF:-1 tvg-name="任城2" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/任城2.png" group-title="地方",任城2
 http://150.138.8.143/00/SNM/CHANNEL00001112/index.m3u8
-#EXTINF:-1 tvg-name="莱钢电视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/莱钢电视.png" group-title="地方",莱钢电视
-http://150.138.8.143/00/SNM/CHANNEL00001115/index.m3u8
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/纪实人文.png" group-title="数字",纪实人文
-http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰纪实.png" group-title="数字",金鹰纪实
 http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰卡通.png" group-title="数字",金鹰卡通
@@ -470,8 +444,6 @@ http://150.138.8.143/00/SNM/CHANNEL00002022/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/东方财经.png" group-title="数字",东方财经
 http://150.138.8.143/00/SNM/CHANNEL00002025/index.m3u8
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/劲爆体育.png" group-title="数字",劲爆体育
-http://150.138.8.143/00/SNM/CHANNEL00002026/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰卡通.png" group-title="数字",金鹰卡通
 http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CHC家庭影院.png" group-title="数字",CHC家庭影院
