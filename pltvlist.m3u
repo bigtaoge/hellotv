@@ -162,6 +162,10 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226505/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226388/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/北京卫视4K.png" group-title="卫视",北京卫视4K
 http://39.134.144.6:8089/PLTV/88888888/224/3221226733/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/广东卫视4K.png" group-title="卫视",广东卫视4K
+http://39.134.144.6:8089/PLTV/88888888/224/3221226741/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/深圳卫视4K.png" group-title="卫视",深圳卫视4K
+http://39.134.144.6:8089/PLTV/88888888/224/3221226736/index.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/纪实人文.png" group-title="数字",纪实人文
 http://39.134.144.6:8089/PLTV/88888888/224/3221226499/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰纪实.png" group-title="数字",金鹰纪实
