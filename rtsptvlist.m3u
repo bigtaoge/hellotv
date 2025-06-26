@@ -162,6 +162,10 @@ rtsp://223.99.188.13/PLTV/88888888/224/3221227342/100001000000000600000000068511
 rtsp://223.99.188.13/PLTV/88888888/224/3221227389/10000100000000060000000006851170_0.smil
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/北京卫视4K.png" group-title="卫视",北京卫视4K
 rtsp://223.99.188.13/PLTV/88888888/224/3221227608/373300526.smil
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/广东卫视4K.png" group-title="卫视",广东卫视4K
+rtsp://223.99.188.13/PLTV/88888888/224/3221227616/375567159.smil
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/深圳卫视4K.png" group-title="卫视",深圳卫视4K
+rtsp://223.99.188.13/PLTV/88888888/224/3221227620/375567094.smil
 #EXTINF:-1 tvg-name="济南都市" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济南都市.png" group-title="地方",济南都市
 rtsp://223.99.188.13/PLTV/88888888/224/3221225817/10000100000000060000000001375921_0.smil
 #EXTINF:-1 tvg-name="济南生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济南生活.png" group-title="地方",济南生活
