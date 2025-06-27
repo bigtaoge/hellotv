@@ -225,6 +225,7 @@ CGTN俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 任城1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001111/index.m3u8
 任城2,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001112/index.m3u8
 莱钢电视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001115/index.m3u8
+汶上综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001116/index.m3u8
 
 数字频道,#genre#
 中国交通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
