@@ -436,6 +436,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001111/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001112/index.m3u8
 #EXTINF:-1 tvg-name="莱钢电视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/莱钢电视.png" group-title="地方",莱钢电视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001115/index.m3u8
+#EXTINF:-1 tvg-name="汶上综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/汶上综合.png" group-title="地方",汶上综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001116/index.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/纪实人文.png" group-title="数字",纪实人文
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰纪实.png" group-title="数字",金鹰纪实
