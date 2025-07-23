@@ -172,7 +172,7 @@ CGTN俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 高青综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001023/index.m3u8
 无棣综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001024/index.m3u8
 枣庄新闻综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001025/index.m3u8
-枣庄教育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001026/index.m3u8
+枣庄经济生活,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001026/index.m3u8
 滕州综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001028/index.m3u8
 济阳综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001030/index.m3u8
 蒙阴综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001031/index.m3u8
