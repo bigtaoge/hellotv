@@ -337,6 +337,8 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221225830/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226089/index.m3u8
 #EXTINF:-1 tvg-name="枣庄经济生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/枣庄经济生活.png" group-title="地方",枣庄经济生活
 http://39.134.144.6:8089/PLTV/88888888/224/3221226030/index.m3u8
+#EXTINF:-1 tvg-name="滕州综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/滕州综合.png" group-title="地方",滕州综合
+http://39.134.144.6:8089/PLTV/88888888/224/3221225850/index.m3u8
 #EXTINF:-1 tvg-name="济阳综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济阳综合.png" group-title="地方",济阳综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221225936/index.m3u8
 #EXTINF:-1 tvg-name="蒙阴综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/蒙阴综合.png" group-title="地方",蒙阴综合
