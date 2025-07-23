@@ -259,6 +259,8 @@ rtsp://223.99.188.13/PLTV/88888888/224/3221226314/100001000000000600000000030988
 rtsp://223.99.188.13/PLTV/88888888/224/3221226584/10000100000000060000000003493605_0.smil
 #EXTINF:-1 tvg-name="枣庄经济生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/枣庄经济生活.png" group-title="地方",枣庄经济生活
 rtsp://223.99.188.13/PLTV/88888888/224/3221226585/10000100000000060000000003493614_0.smil
+#EXTINF:-1 tvg-name="滕州综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/滕州综合.png" group-title="地方",滕州综合
+rtsp://223.99.188.13/PLTV/88888888/224/3221226349/10000100000000060000000003131620_0.smil
 #EXTINF:-1 tvg-name="济阳综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济阳综合.png" group-title="地方",济阳综合
 rtsp://223.99.188.13/PLTV/88888888/224/3221226451/10000100000000060000000003353385_0.smil
 #EXTINF:-1 tvg-name="蒙阴综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/蒙阴综合.png" group-title="地方",蒙阴综合
