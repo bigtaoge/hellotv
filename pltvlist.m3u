@@ -167,18 +167,6 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226733/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226741/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/深圳卫视4K.png" group-title="卫视",深圳卫视4K
 http://39.134.144.6:8089/PLTV/88888888/224/3221226736/index.m3u8
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/纪实人文.png" group-title="数字",纪实人文
-http://39.134.144.6:8089/PLTV/88888888/224/3221226499/index.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰纪实.png" group-title="数字",金鹰纪实
-http://39.134.144.6:8089/PLTV/88888888/224/3221226386/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰卡通.png" group-title="数字",金鹰卡通
-http://39.134.144.6:8089/PLTV/88888888/224/3221226404/index.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/优漫卡通.png" group-title="数字",优漫卡通
-http://39.134.144.6:8089/PLTV/88888888/224/3221225970/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/哈哈炫动.png" group-title="数字",哈哈炫动
-http://39.134.144.6:8089/PLTV/88888888/224/3221225972/index.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/嘉佳卡通.png" group-title="数字",嘉佳卡通
-http://39.134.144.6:8089/PLTV/88888888/224/3221226503/index.m3u8
 #EXTINF:-1 tvg-name="济南都市" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济南都市.png" group-title="地方",济南都市
 http://39.134.144.6:8089/PLTV/88888888/224/3221226029/index.m3u8
 #EXTINF:-1 tvg-name="济南生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济南生活.png" group-title="地方",济南生活
@@ -191,16 +179,6 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221225992/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221225979/index.m3u8
 #EXTINF:-1 tvg-name="济南教育" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济南教育.png" group-title="地方",济南教育
 http://39.134.144.6:8089/PLTV/88888888/224/3221225987/index.m3u8
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV1.png" group-title="数字",CETV1
-http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV2.png" group-title="数字",CETV2
-http://39.134.144.6:8089/PLTV/88888888/224/3221226390/index.m3u8
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV4.png" group-title="数字",CETV4
-http://39.134.144.6:8089/PLTV/88888888/224/3221226416/index.m3u8
-#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/求索纪录.png" group-title="数字",求索纪录
-http://39.134.144.6:8089/PLTV/88888888/224/3221226727/index.m3u8
-#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/中国交通.png" group-title="数字",中国交通
-http://39.134.144.6:8089/PLTV/88888888/224/3221226295/index.m3u8
 #EXTINF:-1 tvg-name="德州新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/德州新闻综合.png" group-title="地方",德州新闻综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221226065/index.m3u8
 #EXTINF:-1 tvg-name="德州经济生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/德州经济生活.png" group-title="地方",德州经济生活
@@ -443,8 +421,30 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226466/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226729/index.m3u8
 #EXTINF:-1 tvg-name="汶上综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/汶上综合.png" group-title="地方",汶上综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221226734/index.m3u8
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/纪实人文.png" group-title="数字",纪实人文
+http://39.134.144.6:8089/PLTV/88888888/224/3221226499/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰纪实.png" group-title="数字",金鹰纪实
+http://39.134.144.6:8089/PLTV/88888888/224/3221226386/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰卡通.png" group-title="数字",金鹰卡通
+http://39.134.144.6:8089/PLTV/88888888/224/3221226404/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/优漫卡通.png" group-title="数字",优漫卡通
+http://39.134.144.6:8089/PLTV/88888888/224/3221225970/index.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/哈哈炫动.png" group-title="数字",哈哈炫动
+http://39.134.144.6:8089/PLTV/88888888/224/3221225972/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/嘉佳卡通.png" group-title="数字",嘉佳卡通
+http://39.134.144.6:8089/PLTV/88888888/224/3221226503/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/卡酷少儿.png" group-title="数字",卡酷少儿
 http://39.134.144.6:8089/PLTV/88888888/224/3221226529/index.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV1.png" group-title="数字",CETV1
+http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV2.png" group-title="数字",CETV2
+http://39.134.144.6:8089/PLTV/88888888/224/3221226390/index.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV4.png" group-title="数字",CETV4
+http://39.134.144.6:8089/PLTV/88888888/224/3221226416/index.m3u8
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/求索纪录.png" group-title="数字",求索纪录
+http://39.134.144.6:8089/PLTV/88888888/224/3221226727/index.m3u8
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/中国交通.png" group-title="数字",中国交通
+http://39.134.144.6:8089/PLTV/88888888/224/3221226295/index.m3u8
 #EXTINF:-1 tvg-name="海洋频道" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/海洋频道.png" group-title="数字",海洋频道
 http://39.134.144.6:8089/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/茶频道.png" group-title="数字",茶频道
@@ -459,6 +459,10 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226444/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/生态环境.png" group-title="数字",生态环境
 http://39.134.144.6:8089/PLTV/88888888/224/3221226735/index.m3u8
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/中华特产.png" group-title="数字",中华特产
+http://39.134.144.6:8089/PLTV/88888888/224/3221226748/index.m3u8
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/中学生.png" group-title="数字",中学生
+http://39.134.144.6:8089/PLTV/88888888/224/3221226753/index.m3u8
 #EXTINF:-1 tvg-name="汽摩" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/汽摩.png" group-title="数字",汽摩
 http://39.134.144.6:8089/PLTV/88888888/224/3221226597/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/动漫秀场.png" group-title="数字",动漫秀场
