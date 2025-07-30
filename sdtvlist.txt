@@ -247,7 +247,7 @@ CETV4,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
 文物宝库,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
 生态环境,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000671/index.m3u8
 中华特产,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000672/index.m3u8
-中央新影中学生,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000673/index.m3u8
+中学生,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000673/index.m3u8
 汽摩,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8
 动漫秀场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
 法制天地,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
