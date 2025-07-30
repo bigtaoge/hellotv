@@ -469,9 +469,9 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/生态环境.png" group-title="数字",生态环境
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000671/index.m3u8
-#EXTINF:-1 tvg-name="生态环境" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/中华特产.png" group-title="数字",中华特产
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/中华特产.png" group-title="数字",中华特产
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000672/index.m3u8
-#EXTINF:-1 tvg-name="生态环境" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/中学生.png" group-title="数字",中学生
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/中学生.png" group-title="数字",中学生
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000673/index.m3u8
 #EXTINF:-1 tvg-name="汽摩" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/汽摩.png" group-title="数字",汽摩
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8
