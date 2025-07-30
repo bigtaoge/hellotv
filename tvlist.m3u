@@ -179,16 +179,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000065/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000067/index.m3u8
 #EXTINF:-1 tvg-name="济南教育" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济南教育.png" group-title="地方",济南教育
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000069/index.m3u8
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV1.png" group-title="数字",CETV1
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV2.png" group-title="数字",CETV2
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV4.png" group-title="数字",CETV4
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
-#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/求索纪录.png" group-title="数字",求索纪录
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
-#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/中国交通.png" group-title="数字",中国交通
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
 #EXTINF:-1 tvg-name="德州新闻综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/德州新闻综合.png" group-title="地方",德州新闻综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000206/index.m3u8
 #EXTINF:-1 tvg-name="德州经济生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/德州经济生活.png" group-title="地方",德州经济生活
@@ -441,6 +431,16 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001112/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001115/index.m3u8
 #EXTINF:-1 tvg-name="汶上综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/汶上综合.png" group-title="地方",汶上综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001116/index.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV1.png" group-title="数字",CETV1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV2.png" group-title="数字",CETV2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV4.png" group-title="数字",CETV4
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/求索纪录.png" group-title="数字",求索纪录
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/中国交通.png" group-title="数字",中国交通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/纪实人文.png" group-title="数字",纪实人文
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰纪实.png" group-title="数字",金鹰纪实
