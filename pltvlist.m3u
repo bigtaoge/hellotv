@@ -147,14 +147,14 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226035/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221225954/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://39.134.144.6:8089/PLTV/88888888/224/3221226033/index.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221225866/index.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226073/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221225857/index.m3u8
+http://39.134.144.6:8089/PLTV/88888888/224/3221226749/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://39.134.144.6:8089/PLTV/88888888/224/3221226756/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/兵团卫视.png" group-title="卫视",兵团卫视
-http://39.134.144.6:8089/PLTV/88888888/224/3221226352/index.m3u8
+http://39.134.144.6:8089/PLTV/88888888/224/3221226751/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://39.134.144.6:8089/PLTV/88888888/224/3221226752/index.m3u8
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/农林卫视.png" group-title="卫视",农林卫视
 http://39.134.144.6:8089/PLTV/88888888/224/3221226501/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/厦门卫视.png" group-title="卫视",厦门卫视
