@@ -441,6 +441,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/中国交通.png" group-title="数字",中国交通
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/四海钓鱼.png" group-title="数字",四海钓鱼
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000674/index.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/纪实人文.png" group-title="数字",纪实人文
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰纪实.png" group-title="数字",金鹰纪实
