@@ -193,7 +193,6 @@ CGTN俄语,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
 齐河新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
 邹平新闻频道,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
 武城新闻综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001059/index.m3u8
-武城影视综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001060/index.m3u8
 禹城综合,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001061/index.m3u8
 禹城综艺,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
 定陶TV1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001063/index.m3u8
@@ -236,7 +235,6 @@ CETV4,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
 求索记录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
 金鹰纪实,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
 卡酷少儿,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
-海洋频道,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8
 优漫卡通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
 炫动卡通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
 嘉佳卡通,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000074/index.m3u8
@@ -256,7 +254,6 @@ CETV4,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
 乐游,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
 金色学堂,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
 生活时尚,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
-魅力足球,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002021/index.m3u8
 都市剧场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
 游戏风云,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
 东方财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
@@ -270,4 +267,5 @@ CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index
 广播频道,#genre#
 山东经济广播,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00003001/index.m3u8
 山东交通广播,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00003002/index.m3u8
+
 
