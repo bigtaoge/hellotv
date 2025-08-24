@@ -363,11 +363,8 @@ rtsp://223.99.188.13/PLTV/88888888/224/3221227545/100001000000000600000000089471
 rtsp://223.99.188.13/PLTV/88888888/224/3221227562/10000100000000060000000008947166_0.smil
 #EXTINF:-1 tvg-name="莱钢电视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/莱钢电视.png" group-title="地方",莱钢电视
 rtsp://223.99.188.13/PLTV/88888888/224/3221227599/372203462.smil
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/纪实人文.png" group-title="数字",纪实人文
-rtsp://223.99.188.13/PLTV/88888888/224/3221227380/10000100000000060000000006851153_0.smil
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/四海钓鱼.png" group-title="数字",四海钓鱼
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/纪实人文.png" group-title="数字",纪实人文
-rtsp://223.99.188.13/PLTV/88888888/224/3221227380/10000100000000060000000006851153_0.smil
+rtsp://223.99.188.13/PLTV/88888888/224/3221227615/376518156.smil
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰纪实.png" group-title="数字",金鹰纪实
 rtsp://223.99.188.13/PLTV/88888888/224/3221227383/10000100000000060000000006851163_0.smil
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/优漫卡通.png" group-title="数字",优漫卡通
