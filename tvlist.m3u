@@ -453,8 +453,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000074/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/卡酷少儿.png" group-title="数字",卡酷少儿
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
-#EXTINF:-1 tvg-name="海洋频道" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/海洋频道.png" group-title="数字",海洋频道
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/茶频道.png" group-title="数字",茶频道
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/快乐垂钓.png" group-title="数字",快乐垂钓
