@@ -363,8 +363,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
 #EXTINF:-1 tvg-name="武城综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/武城综合.png" group-title="地方",武城综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001059/index.m3u8
-#EXTINF:-1 tvg-name="武城综艺影视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/武城综艺影视.png" group-title="地方",武城综艺影视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001060/index.m3u8
 #EXTINF:-1 tvg-name="禹城综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/禹城综合.png" group-title="地方",禹城综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001061/index.m3u8
 #EXTINF:-1 tvg-name="禹城综艺" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/禹城综艺.png" group-title="地方",禹城综艺
@@ -443,8 +441,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/四海钓鱼.png" group-title="数字",四海钓鱼
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000674/index.m3u8
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/纪实人文.png" group-title="数字",纪实人文
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰纪实.png" group-title="数字",金鹰纪实
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/金鹰卡通.png" group-title="数字",金鹰卡通
@@ -489,8 +485,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/生活时尚.png" group-title="数字",生活时尚
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/魅力足球.png" group-title="数字",魅力足球
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002021/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/都市剧场.png" group-title="数字",都市剧场
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/游戏风云.png" group-title="数字",游戏风云
