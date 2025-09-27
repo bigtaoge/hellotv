@@ -167,6 +167,18 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226733/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226741/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/深圳卫视4K.png" group-title="卫视",深圳卫视4K
 http://39.134.144.6:8089/PLTV/88888888/224/3221226736/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东卫视4K.png" group-title="卫视",山东卫视4K
+http://39.134.144.6:8089/PLTV/88888888/224/3221226752/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/浙江卫视4K.png" group-title="卫视",浙江卫视4K
+http://39.134.144.6:8089/PLTV/88888888/224/3221226776/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/江苏卫视4K.png" group-title="卫视",江苏卫视4K
+http://39.134.144.6:8089/PLTV/88888888/224/3221226778/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/四川卫视4K.png" group-title="卫视",四川卫视4K
+http://39.134.144.6:8089/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/湖南卫视4K.png" group-title="卫视",湖南卫视4K
+http://39.134.144.6:8089/PLTV/88888888/224/32212267383/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/东方卫视4K.png" group-title="卫视",东方卫视4K
+http://39.134.144.6:8089/PLTV/88888888/224/3221226786/index.m3u8
 #EXTINF:-1 tvg-name="济南都市" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济南都市.png" group-title="地方",济南都市
 http://39.134.144.6:8089/PLTV/88888888/224/3221226029/index.m3u8
 #EXTINF:-1 tvg-name="济南生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济南生活.png" group-title="地方",济南生活
