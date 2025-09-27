@@ -169,6 +169,16 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/山东卫视4K.png" group-title="卫视",山东卫视4K
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/湖南卫视4K.png" group-title="卫视",湖南卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000006/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/江苏卫视4K.png" group-title="卫视",江苏卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000007/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/浙江卫视4K.png" group-title="卫视",浙江卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000008/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/东方卫视4K.png" group-title="卫视",东方卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/四川卫视4K.png" group-title="卫视",四川卫视4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
 #EXTINF:-1 tvg-name="济南都市" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济南都市.png" group-title="地方",济南都市
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000062/index.m3u8
 #EXTINF:-1 tvg-name="济南生活" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/济南生活.png" group-title="地方",济南生活
