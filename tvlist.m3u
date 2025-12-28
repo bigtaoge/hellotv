@@ -441,6 +441,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001112/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001115/index.m3u8
 #EXTINF:-1 tvg-name="汶上综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/汶上综合.png" group-title="地方",汶上综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001116/index.m3u8
+#EXTINF:-1 tvg-name="东昌综合" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/东昌综合.png" group-title="地方",东昌综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001119/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV1.png" group-title="数字",CETV1
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CETV2.png" group-title="数字",CETV2
