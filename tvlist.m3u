@@ -515,7 +515,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/CHC动作电影.png" group-title="数字",CHC动作电影
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/duanju.png" group-title="数字",短剧
+#EXTINF:-1 tvg-name="短剧" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/duanju.png" group-title="数字",短剧
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002031/index.m3u8
 #EXTINF:-1 tvg-name="重温经典影视" tvg-logo="https://raw.githubusercontent.com/bigtaoge/hellotv/main/logo/重温经典影视.png" group-title="数字",重温经典影视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL20000003/index.m3u8
